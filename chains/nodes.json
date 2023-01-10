@@ -1,0 +1,289 @@
+[
+  {
+    "chain_id": 1,
+    "name": "node-geth-fast-02",
+    "web3_url": "http://10.0.100.101:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 1,
+    "name": "node-geth-fast-03",
+    "web3_url": "http://10.0.100.102:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 1,
+    "name": "quicknode-merge",
+    "web3_url": "https://thrumming-magical-hill.quiknode.pro/c4ab9551a259797938e2be00829684c22968eac2/",
+    "enabled": false,
+    "type": "evm"
+  },
+  {
+    "chain_id": 10,
+    "name": "node-optimism-3",
+    "web3_url": "http://10.0.100.107:9991",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 10,
+    "name": "node-optimism-4",
+    "web3_url": "http://10.0.100.108:9991",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-1",
+    "web3_url": "http://10.0.100.113:8547",
+    "enabled": true,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-2",
+    "web3_url": "http://10.0.100.114:8547",
+    "enabled": true,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-hz1",
+    "web3_url": "http://node-multichain-3.dexguru.net:28547",
+    "enabled": false,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-hz-2",
+    "web3_url": "http://node-arbitrum-1.dexguru.net:8547",
+    "enabled": false,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "arb-quicknodes",
+    "web3_url": "https://dimensional-polished-meme.arbitrum-mainnet.quiknode.pro/92c1a8072f063b50c4230168e4694a2041f012f6/",
+    "enabled": false,
+    "type": "quicknodes"
+  },
+  {
+    "chain_id": 137,
+    "name": "node-polygon-1",
+    "web3_url": "http://10.0.100.109:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 137,
+    "name": "node-polygon-2",
+    "web3_url": "http://10.0.100.110:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 42220,
+    "name": "node-celo-3",
+    "web3_url": "http://10.0.100.115:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 42220,
+    "name": "node-celo-4",
+    "web3_url": "http://10.0.100.116:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 100,
+    "name": "gnosis-1",
+    "web3_url": "http://10.0.100.117:8545",
+    "enabled": true,
+    "type": "nethermind"
+  },
+  {
+    "chain_id": 56,
+    "name": "node-bsc-1",
+    "web3_url": "http://10.0.100.103:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 56,
+    "name": "node-bsc-2",
+    "web3_url": "http://10.0.100.104:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 250,
+    "name": "node-fantom-1",
+    "web3_url": "http://10.0.100.111:18545",
+    "enabled": true,
+    "type": "opera"
+  },
+  {
+    "chain_id": 250,
+    "name": "node-fantom-2",
+    "web3_url": "http://10.0.100.112:18545",
+    "enabled": true,
+    "type": "opera"
+  },
+  {
+    "chain_id": 56,
+    "name": "node-bsc-1",
+    "web3_url": "http://10.0.100.103:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 56,
+    "name": "node-bsc-2",
+    "web3_url": "http://10.0.100.104:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 137,
+    "name": "node-polygon-1",
+    "web3_url": "http://10.0.100.109:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 137,
+    "name": "node-polygon-2",
+    "web3_url": "http://10.0.100.110:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 1,
+    "name": "node-geth-fast-02",
+    "web3_url": "http://10.0.100.101:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 1,
+    "name": "node-geth-fast-03",
+    "web3_url": "http://10.0.100.102:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 1,
+    "name": "quicknode-merge",
+    "web3_url": "https://thrumming-magical-hill.quiknode.pro/c4ab9551a259797938e2be00829684c22968eac2/",
+    "enabled": false,
+    "type": "evm"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-1",
+    "web3_url": "http://10.0.100.113:8547",
+    "enabled": true,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-2",
+    "web3_url": "http://10.0.100.114:8547",
+    "enabled": true,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-hz1",
+    "web3_url": "http://node-multichain-3.dexguru.net:28547",
+    "enabled": false,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "node-arbitrum-hz-2",
+    "web3_url": "http://node-arbitrum-1.dexguru.net:8547",
+    "enabled": false,
+    "type": "arbitrum"
+  },
+  {
+    "chain_id": 42161,
+    "name": "arb-quicknodes",
+    "web3_url": "https://dimensional-polished-meme.arbitrum-mainnet.quiknode.pro/92c1a8072f063b50c4230168e4694a2041f012f6/",
+    "enabled": false,
+    "type": "quicknodes"
+  },
+  {
+    "chain_id": 43114,
+    "name": "node-avalanche-3",
+    "web3_url": "http://10.0.100.105:9650/ext/bc/C/rpc",
+    "enabled": true,
+    "type": "avalanche"
+  },
+  {
+    "chain_id": 43114,
+    "name": "node-avalanche-4",
+    "web3_url": "http://10.0.100.106:9650/ext/bc/C/rpc",
+    "enabled": true,
+    "type": "avalanche"
+  },
+  {
+    "chain_id": 250,
+    "name": "node-fantom-1",
+    "web3_url": "http://10.0.100.111:18545",
+    "enabled": true,
+    "type": "opera"
+  },
+  {
+    "chain_id": 250,
+    "name": "node-fantom-2",
+    "web3_url": "http://10.0.100.112:18545",
+    "enabled": true,
+    "type": "opera"
+  },
+  {
+    "chain_id": 100,
+    "name": "gnosis-1",
+    "web3_url": "http://10.0.100.117:8545",
+    "enabled": true,
+    "type": "nethermind"
+  },
+  {
+    "chain_id": 42220,
+    "name": "node-celo-3",
+    "web3_url": "http://10.0.100.115:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 42220,
+    "name": "node-celo-4",
+    "web3_url": "http://10.0.100.116:8545",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 10,
+    "name": "node-optimism-3",
+    "web3_url": "http://10.0.100.107:9991",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 10,
+    "name": "node-optimism-4",
+    "web3_url": "http://10.0.100.108:9991",
+    "enabled": true,
+    "type": "geth"
+  },
+  {
+    "chain_id": 100,
+    "name": "gnosis-2",
+    "web3_url": "http://10.0.100.122:8545",
+    "enabled": true,
+    "type": "evm"
+  }
+]

@@ -1,0 +1,2049 @@
+[
+  {
+    "id": 1,
+    "chain_id": 1,
+    "name": "uniswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+      "UniswapV2Factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+    }
+  },
+  {
+    "id": 2,
+    "chain_id": 1,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 3,
+    "chain_id": 1,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+      "UniswapV2Factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+    }
+  },
+  {
+    "id": 4,
+    "chain_id": 56,
+    "name": "pancakeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "UniswapV2Factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"
+    }
+  },
+  {
+    "id": 5,
+    "chain_id": 137,
+    "name": "quickswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "UniswapV2Factory": "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32"
+    }
+  },
+  {
+    "id": 6,
+    "chain_id": 43114,
+    "name": "pangolin",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+      "UniswapV2Factory": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88"
+    }
+  },
+  {
+    "id": 7,
+    "chain_id": 43114,
+    "name": "traderjoe",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+      "UniswapV2Factory": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10"
+    }
+  },
+  {
+    "id": 8,
+    "chain_id": 42161,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 9,
+    "chain_id": 42220,
+    "name": "ubeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xE3D8bd6Aed4F159bc8000a9cD47CffDb95F96121",
+      "UniswapV2Factory": "0x62d5b84bE28a183aBB507E125B384122D2C25fAE"
+    }
+  },
+  {
+    "id": 10,
+    "chain_id": 250,
+    "name": "spookyswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+      "UniswapV2Factory": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3"
+    }
+  },
+  {
+    "id": 11,
+    "chain_id": 250,
+    "name": "spiritswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x16327E3FbDaCA3bcF7E38F5Af2599D2DDc33aE52",
+      "UniswapV2Factory": "0xEF45d134b73241eDa7703fa787148D9C9F4950b0"
+    }
+  },
+  {
+    "id": 12,
+    "chain_id": 1,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
+      "IDMMRouter02": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6"
+    }
+  },
+  {
+    "id": 13,
+    "chain_id": 42161,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 14,
+    "chain_id": 250,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 15,
+    "chain_id": 43114,
+    "name": "lydia",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xa52abe4676dbfd04df42ef7755f01a3c41f28d27",
+      "UniswapV2Factory": "0xe0C1bb6DF4851feEEdc3E14Bd509FEAF428f7655"
+    }
+  },
+  {
+    "id": 16,
+    "chain_id": 56,
+    "name": "impossible_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x8f2A0d8865D995364DC6843D51Cf6989001f989e",
+      "UniswapV2Factory": "0x918d7e714243F7d9d463C37e106235dCde294ffC"
+    }
+  },
+  {
+    "id": 17,
+    "chain_id": 1,
+    "name": "cryptocom",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xceb90e4c17d626be0facd78b79c9c87d7ca181b3",
+      "UniswapV2Factory": "0x9DEB29c9a4c7A88a3C0257393b7f3335338D9A9D"
+    }
+  },
+  {
+    "id": 18,
+    "chain_id": 137,
+    "name": "firebid_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xF6fa9Ea1f64f1BBfA8d71f7f43fAF6D45520bfac",
+      "UniswapV2Factory": "0x5De74546d3B86C8Df7FEEc30253865e1149818C8"
+    }
+  },
+  {
+    "id": 19,
+    "chain_id": 43114,
+    "name": "elk_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x9E4AAbd2B3E60Ee1322E94307d0776F2c8e6CFbb",
+      "UniswapV2Factory": "0x091d35d7F63487909C863001ddCA481c6De47091"
+    }
+  },
+  {
+    "id": 20,
+    "chain_id": 43114,
+    "name": "canary",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x06f8ED60393AC6A4B16900273C9313222dfe9940",
+      "UniswapV2Factory": "0xCFBA329d49C24b70F3a8b9CC0853493d4645436b"
+    }
+  },
+  {
+    "id": 21,
+    "chain_id": 137,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 23,
+    "chain_id": 43114,
+    "name": "empiredex",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "UniswapV2Factory": "0x06530550A48F990360DFD642d2132354A144F31d"
+    }
+  },
+  {
+    "id": 24,
+    "chain_id": 43114,
+    "name": "yetiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x262DcFB36766C88E6A7a2953c16F8defc40c378A",
+      "UniswapV2Factory": "0x58C8CD291Fa36130119E6dEb9E520fbb6AcA1c3a"
+    }
+  },
+  {
+    "id": 25,
+    "chain_id": 43114,
+    "name": "baguette",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xF7b1e993d1b4F7348D64Aa55A294E4B74512F7f2",
+      "UniswapV2Factory": "0x3587B8c0136c2C3605a9E5B03ab54Da3e4044b50"
+    }
+  },
+  {
+    "id": 26,
+    "chain_id": 250,
+    "name": "zoodex",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x40b12a3E261416fF0035586ff96e23c2894560f2",
+      "UniswapV2Factory": "0x6178C3B21F7cA1adD84c16AD35452c85a85F5df4"
+    }
+  },
+  {
+    "id": 27,
+    "chain_id": 250,
+    "name": "jetswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
+      "UniswapV2Factory": "0xf6488205957f0b4497053d6422F49e27944eE3Dd"
+    }
+  },
+  {
+    "id": 28,
+    "chain_id": 56,
+    "name": "jetswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xBe65b8f75B9F20f4C522e0067a3887FADa714800",
+      "UniswapV2Factory": "0x0eb58E5c8aA63314ff5547289185cC4583DfCBD5"
+    }
+  },
+  {
+    "id": 29,
+    "chain_id": 137,
+    "name": "jetswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x5C6EC38fb0e2609672BDf628B1fD605A523E5923",
+      "UniswapV2Factory": "0x668ad0ed2622C62E24f0d5ab6B6Ac1b9D2cD4AC7"
+    }
+  },
+  {
+    "id": 30,
+    "chain_id": 250,
+    "name": "soulswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x6b3d631B87FE27aF29efeC61d2ab8CE4d621cCBF",
+      "UniswapV2Factory": "0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF"
+    }
+  },
+  {
+    "id": 31,
+    "chain_id": 250,
+    "name": "paintswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xfD000ddCEa75a2E23059881c3589F6425bFf1AbB",
+      "UniswapV2Factory": "0x733A9D1585f2d14c77b49d39BC7d7dd14CdA4aa5"
+    }
+  },
+  {
+    "id": 32,
+    "chain_id": 250,
+    "name": "hyperswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x53c153a0df7E050BbEFbb70eE9632061f12795fB",
+      "UniswapV2Factory": "0x9C454510848906FDDc846607E4baa27Ca999FBB6"
+    }
+  },
+  {
+    "id": 33,
+    "chain_id": 250,
+    "name": "morpheusswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x8aC868293D97761A1fED6d4A01E9FF17C5594Aa3",
+      "UniswapV2Factory": "0x9C454510848906FDDc846607E4baa27Ca999FBB6"
+    }
+  },
+  {
+    "id": 34,
+    "chain_id": 250,
+    "name": "wakaswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xAad831F5CF9E39c666cCba4cF12A70af19782AB9",
+      "UniswapV2Factory": "0xae9b81fe0620ceb9a11e4d42711bc9baf672f756"
+    }
+  },
+  {
+    "id": 35,
+    "chain_id": 250,
+    "name": "elk_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x4D2cf285a519261F30b4d9c2c344Baf260d65Fa2",
+      "UniswapV2Factory": "0x7Ba73c99e6f01a37f3e33854c8F544BbbadD3420"
+    }
+  },
+  {
+    "id": 36,
+    "chain_id": 250,
+    "name": "yoshi_exchange",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3dc57B391262e3aAe37a08D91241f9bA9d58b570",
+      "UniswapV2Factory": "0xc5bc174cb6382fbab17771d05e6a918441deceea"
+    }
+  },
+  {
+    "id": 37,
+    "chain_id": 137,
+    "name": "dfyn",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xA102072A4C07F06EC3B4900FDC4C7B80b6c57429",
+      "UniswapV2Factory": "0xE7Fb3e833eFE5F9c441105EB65Ef8b261266423B"
+    }
+  },
+  {
+    "id": 38,
+    "chain_id": 250,
+    "name": "dfyn",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x2724B9497b2cF3325C6BE3ea430b3cec34B5Ef2d",
+      "UniswapV2Factory": "0xd9820a17053d6314B20642E465a84Bf01a3D64f5"
+    }
+  },
+  {
+    "id": 39,
+    "chain_id": 42161,
+    "name": "dfyn",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xaedE1EFe768bD8A1663A7608c63290C60B85e71c",
+      "UniswapV2Factory": "0xA102072A4C07F06EC3B4900FDC4C7B80b6c57429"
+    }
+  },
+  {
+    "id": 40,
+    "chain_id": 137,
+    "name": "waultswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3a1d87f206d12415f5b0a33e786967680aab4f6d",
+      "UniswapV2Factory": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef"
+    }
+  },
+  {
+    "id": 41,
+    "chain_id": 56,
+    "name": "waultswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xD48745E39BbED146eEC15b79cBF964884F9877c2",
+      "UniswapV2Factory": "0xB42E3FE71b7E0673335b3331B3e1053BD9822570"
+    }
+  },
+  {
+    "id": 42,
+    "chain_id": 137,
+    "name": "polydex",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xC60aE14F2568b102F8Ca6266e8799112846DD088",
+      "UniswapV2Factory": "0xEAA98F7b5f7BfbcD1aF14D0efAa9d9e68D82f640"
+    }
+  },
+  {
+    "id": 43,
+    "chain_id": 137,
+    "name": "elk_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xf38a7A7Ac2D745E2204c13F824c00139DF831FFf",
+      "UniswapV2Factory": "0xE3BD06c7ac7E1CeB17BdD2E5BA83E40D1515AF2a"
+    }
+  },
+  {
+    "id": 44,
+    "chain_id": 137,
+    "name": "cafeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x9055682E58C74fc8DdBFC55Ad2428aB1F96098Fc",
+      "UniswapV2Factory": "0x5eDe3f4e7203Bf1F12d57aF1810448E5dB20f46C"
+    }
+  },
+  {
+    "id": 45,
+    "chain_id": 56,
+    "name": "cafeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x933DAea3a5995Fb94b14A7696a5F3ffD7B1E385A",
+      "UniswapV2Factory": "0x3e708FdbE3ADA63fc94F8F61811196f1302137AD"
+    }
+  },
+  {
+    "id": 46,
+    "chain_id": 56,
+    "name": "alitaswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x730aCC3bBf2443f2EaEaCFc7ac7b4d8DC9E32dB8",
+      "UniswapV2Factory": "0xC7a506ab3ac668EAb6bF9eCf971433D6CFeF05D9"
+    }
+  },
+  {
+    "id": 47,
+    "chain_id": 137,
+    "name": "apeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607",
+      "UniswapV2Factory": "0xCf083Be4164828f00cAE704EC15a36D711491284"
+    }
+  },
+  {
+    "id": 48,
+    "chain_id": 56,
+    "name": "apeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xcF0feBd3f17CEf5b47b0cD257aCf6025c5BFf3b7",
+      "UniswapV2Factory": "0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6"
+    }
+  },
+  {
+    "id": 49,
+    "chain_id": 56,
+    "name": "cheeseswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3047799262d8D2EF41eD2a222205968bC9B0d895",
+      "UniswapV2Factory": "0xdd538e4fd1b69b7863e1f741213276a6cf1efb3b"
+    }
+  },
+  {
+    "id": 50,
+    "chain_id": 56,
+    "name": "julswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xbd67d157502A23309Db761c41965600c2Ec788b2",
+      "UniswapV2Factory": "0x553990F2CBA90272390f62C5BDb1681fFc899675"
+    }
+  },
+  {
+    "id": 51,
+    "chain_id": 56,
+    "name": "hyperswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3bc677674df90A9e5D741f28f6CA303357D0E4Ec",
+      "UniswapV2Factory": "0xaC653cE27E04C6ac565FD87F18128aD33ca03Ba2"
+    }
+  },
+  {
+    "id": 52,
+    "chain_id": 56,
+    "name": "babyswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
+      "UniswapV2Factory": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da"
+    }
+  },
+  {
+    "id": 53,
+    "chain_id": 56,
+    "name": "safeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xe804f3c3e6dda8159055428848fe6f2a91c2b9af",
+      "UniswapV2Factory": "0x86a859773cf6df9c8117f20b0b950ada84e7644d"
+    }
+  },
+  {
+    "id": 54,
+    "chain_id": 56,
+    "name": "elk_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xA63B831264183D755756ca9AE5190fF5183d65D6",
+      "UniswapV2Factory": "0x31aFfd875e9f68cd6Cd12Cee8943566c9A4bBA13"
+    }
+  },
+  {
+    "id": 55,
+    "chain_id": 10,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 56,
+    "chain_id": 56,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x878dFE971d44e9122048308301F540910Bbd934c",
+      "IDMMRouter02": "0x78df70615ffc8066cc0887917f2Cd72092C86409"
+    }
+  },
+  {
+    "id": 57,
+    "chain_id": 137,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x5f1fe642060b5b9658c15721ea22e982643c095c",
+      "IDMMRouter02": "0x546C79662E028B661dFB4767664d0273184E4dD1"
+    }
+  },
+  {
+    "id": 58,
+    "chain_id": 250,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
+      "IDMMRouter02": "0x5d5A5a0a465129848c2549669e12cDC2f8DE039A"
+    }
+  },
+  {
+    "id": 59,
+    "chain_id": 1,
+    "name": "swapr",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xb9960d9bca016e9748be75dd52f02188b9d0829f",
+      "UniswapV2Factory": "0xd34971BaB6E5E356fd250715F5dE0492BB070452"
+    }
+  },
+  {
+    "id": 60,
+    "chain_id": 56,
+    "name": "pancakeswap_v1",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F",
+      "UniswapV2Factory": "0xBCfCcbde45cE874adCB698cC183deBcF17952812"
+    }
+  },
+  {
+    "id": 61,
+    "chain_id": 137,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 62,
+    "chain_id": 56,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 63,
+    "chain_id": 42220,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 64,
+    "chain_id": 43114,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 65,
+    "chain_id": 42161,
+    "name": "swapr",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x530476d5583724A89c8841eB6Da76E7Af4C0F17E",
+      "UniswapV2Factory": "0x359F20Ad0F42D75a5077e65F30274cABe6f4F01a"
+    }
+  },
+  {
+    "id": 66,
+    "chain_id": 1,
+    "name": "standard",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x6c78d71ce7300343e3633e0c45d6c7a79fee4650",
+      "UniswapV2Factory": "0x53AC1d1FA4F9F6c604B8B198cE29A50d28cbA893"
+    }
+  },
+  {
+    "id": 67,
+    "chain_id": 137,
+    "name": "polycat",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x94930a328162957FF1dd48900aF67B5439336cBD",
+      "UniswapV2Factory": "0x477Ce834Ae6b7aB003cCe4BC4d8697763FF456FA"
+    }
+  },
+  {
+    "id": 68,
+    "chain_id": 56,
+    "name": "biswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+      "UniswapV2Factory": "0x858E3312ed3A876947EA49d572A7C42DE08af7EE"
+    }
+  },
+  {
+    "id": 69,
+    "chain_id": 56,
+    "name": "yieldfields",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xa4385646517d9b34ada4ac393a64ea120d08408c",
+      "UniswapV2Factory": "0x0A376eE063184B444ff66a9a22AD91525285FE1C"
+    }
+  },
+  {
+    "id": 70,
+    "chain_id": 56,
+    "name": "unitedfarmers",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xad02320a81606fbB760C32e065495A8ddbf322A8",
+      "UniswapV2Factory": "0x2fcd5B3B7A5088509bAbC9910eD2F1B6Fe5775B6"
+    }
+  },
+  {
+    "id": 71,
+    "chain_id": 137,
+    "name": "gravity_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x57de98135e8287f163c59ca4ff45f1341b680248",
+      "UniswapV2Factory": "0x3ed75AfF4094d2Aaa38FaFCa64EF1C152ec1Cf20"
+    }
+  },
+  {
+    "id": 73,
+    "chain_id": 1,
+    "name": "shibaswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x03f7724180aa6b939894b5ca4314783b0b36b329",
+      "UniswapV2Factory": "0x115934131916c8b277dd010ee02de363c09d037c"
+    }
+  },
+  {
+    "id": 74,
+    "chain_id": 56,
+    "name": "sheepdex",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x6fbe54c589d3aC30DCd8FdD4fcB84C1b43f1F552",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "SwapRouter": "0xcD87782A717F40542e18C61Ebb7210d3132e17d8",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x571521f8c16f3c4eD5f2490f19187bA7A5A3CBDf"
+    }
+  },
+  {
+    "id": 75,
+    "chain_id": 10,
+    "name": "zipswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
+      "UniswapV2Factory": "0x8BCeDD62DD46F1A76F8A1633d4f5B76e0CDa521E"
+    }
+  },
+  {
+    "id": 76,
+    "chain_id": 56,
+    "name": "bakeryswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xCDe540d7eAFE93aC5fE6233Bee57E1270D3E330F",
+      "UniswapV2Factory": "0x01bF7C66c6BD861915CdaaE475042d3c4BaE16A7"
+    }
+  },
+  {
+    "id": 77,
+    "chain_id": 250,
+    "name": "solidly",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xa38cd27185a464914D3046f0AB9d43356B34829D",
+      "UniswapV2Factory": "0x3fAaB499b519fdC5819e3D7ed0C26111904cbc28"
+    }
+  },
+  {
+    "id": 78,
+    "chain_id": 1,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 79,
+    "chain_id": 1,
+    "name": "1inch",
+    "type": "1inch",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "OneInchFactory": "0x71CD6666064C3A1354a3B4dca5fA1E2D3ee7D303"
+    }
+  },
+  {
+    "id": 80,
+    "chain_id": 250,
+    "name": "tomb_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xE236f6890F1824fa0a7ffc39b1597A5A6077Cfe9",
+      "UniswapV2Factory": "0xE236f6890F1824fa0a7ffc39b1597A5A6077Cfe9"
+    }
+  },
+  {
+    "id": 81,
+    "chain_id": 42161,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 82,
+    "chain_id": 43114,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 83,
+    "chain_id": 250,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 84,
+    "chain_id": 10,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 85,
+    "chain_id": 137,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 86,
+    "chain_id": 56,
+    "name": "ellipsis",
+    "type": "ellipsis",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x31D236483A15F9B9dD60b36D4013D75e9dbF852b"
+    }
+  },
+  {
+    "id": 87,
+    "chain_id": 1,
+    "name": "bancor_v2",
+    "type": "bancor_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "ContractRegistry": "0x52Ae12ABe5D8BD778BD5397F99cA900624CfADD4"
+    }
+  },
+  {
+    "id": 88,
+    "chain_id": 43114,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x10908C875D865C66f271F5d3949848971c9595C9",
+      "IDMMRouter02": "0x8Efa5A9AD6D594Cf76830267077B78cE0Bc5A5F8"
+    }
+  },
+  {
+    "id": 89,
+    "chain_id": 42161,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x51E8D106C646cA58Caf32A47812e95887C071a62",
+      "IDMMRouter02": "0x51E8D106C646cA58Caf32A47812e95887C071a62"
+    }
+  },
+  {
+    "id": 90,
+    "chain_id": 56,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xF6A8E47daEEdDcCe297e7541523e27DF2f167BF3",
+      "DODORouteProxy": "0x6B3D817814eABc984d51896b1015C0b89E9737Ca",
+      "GnosisSafeProxy": "0xcaa42F09AF66A8BAE3A7445a7f63DAD97c11638b"
+    }
+  },
+  {
+    "id": 91,
+    "chain_id": 10,
+    "name": "velodrome",
+    "type": "solidly",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xa132DAB612dB5cB9fC9Ac426A0Cc215A3423F9c9",
+      "UniswapV2Factory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746"
+    }
+  },
+  {
+    "id": 92,
+    "chain_id": 1,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x95C4F5b83aA70810D4f142d58e5F7242Bd891CB0"
+    }
+  },
+  {
+    "id": 94,
+    "chain_id": 137,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0x813FddecCD0401c4Fa73B092b074802440544E52",
+      "DODORouteProxy": "0x2fA4334cfD7c56a0E7Ca02BD81455205FcBDc5E9",
+      "GnosisSafeProxy": "0x3CD6D7F5fF977bf8069548eA1F9441b061162b42"
+    }
+  },
+  {
+    "id": 95,
+    "chain_id": 42161,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xe4B2Dfc82977dd2DCE7E8d37895a6A8F50CbB4fB",
+      "DODORouteProxy": "0x3B6067D4CAa8A14c63fdBE6318F27A0bBc9F9237",
+      "GnosisSafeProxy": "0x01d3E7271c278Aa3AA56EeBa6a109b2C200679fA"
+    }
+  },
+  {
+    "id": 96,
+    "chain_id": 56,
+    "name": "knightswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xf0bc2E21a76513aa7CC2730C7A1D6deE0790751f"
+    }
+  },
+  {
+    "id": 97,
+    "chain_id": 56,
+    "name": "mdex",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8"
+    }
+  },
+  {
+    "id": 98,
+    "chain_id": 137,
+    "name": "meshswap",
+    "type": "meshswap",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x9f3044f7f9fc8bc9ed615d54845b4577b833282d"
+    }
+  },
+  {
+    "id": 99,
+    "chain_id": 42220,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV3Factory": "0xAfE208a311B21f13EF87E33A90049fC17A7acDEc"
+    }
+  },
+  {
+    "id": 100,
+    "chain_id": 137,
+    "name": "comethswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x800b052609c355cA8103E06F022aA30647eAd60a"
+    }
+  },
+  {
+    "id": 101,
+    "chain_id": 56,
+    "name": "safemoon",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x4d05D0045df5562D6D52937e93De6Ec1FECDAd21"
+    }
+  },
+  {
+    "id": 102,
+    "chain_id": 1,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xC14d550632db8592D1243Edc8B95b0Ad06703867",
+      "UniswapV2Factory": "0x43eC799eAdd63848443E2347C49f5f52e8Fe0F6f"
+    }
+  },
+  {
+    "id": 103,
+    "chain_id": 42161,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xCAAaB0A72f781B92bA63Af27477aA46aB8F653E7",
+      "UniswapV2Factory": "0x8374A74A728f06bEa6B7259C68AA7BBB732bfeaD"
+    }
+  },
+  {
+    "id": 104,
+    "chain_id": 43114,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x5977b16AA9aBC4D1281058C73B789C65Bf9ab3d3",
+      "UniswapV2Factory": "0xf77ca9B635898980fb219b4F4605C50e4ba58afF"
+    }
+  },
+  {
+    "id": 105,
+    "chain_id": 56,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x67F755137E0AE2a2aa0323c047715Bf6523116E5",
+      "UniswapV2Factory": "0xf89e6CA06121B6d4370f4B196Ae458e8b969A011"
+    }
+  },
+  {
+    "id": 106,
+    "chain_id": 250,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x7D21C651Dd333306B35F2FeAC2a19FA1e1241545",
+      "UniswapV2Factory": "0xDc745E09fC459aDC295E2e7baACe881354dB7F64"
+    }
+  },
+  {
+    "id": 107,
+    "chain_id": 137,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xE52D0337904D4D0519EF7487e707268E1DB6495F",
+      "UniswapV2Factory": "0x54F454D747e037Da288dB568D4121117EAb34e79"
+    }
+  },
+  {
+    "id": 108,
+    "chain_id": 1,
+    "name": "stepn",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x1e895bFe59E3A5103e8B7dA3897d1F2391476f3c"
+    }
+  },
+  {
+    "id": 109,
+    "chain_id": 56,
+    "name": "stepn",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x1e895bFe59E3A5103e8B7dA3897d1F2391476f3c"
+    }
+  },
+  {
+    "id": 110,
+    "chain_id": 56,
+    "name": "fstswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x9A272d734c5a0d7d84E0a892e891a553e8066dce"
+    }
+  },
+  {
+    "id": 111,
+    "chain_id": 56,
+    "name": "pandora",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xFf9A4E72405Df3ca3D909523229677e6B2b8dC71"
+    }
+  },
+  {
+    "id": 112,
+    "chain_id": 56,
+    "name": "nomiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xd6715A8be3944ec72738F0BFDC739d48C3c29349"
+    }
+  },
+  {
+    "id": 113,
+    "chain_id": 56,
+    "name": "planet",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xa053582601214FEb3778031a002135cbBB7DBa18"
+    }
+  },
+  {
+    "id": 114,
+    "chain_id": 56,
+    "name": "jfswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xd654CbF99F2907F06c88399AE123606121247D5C"
+    }
+  },
+  {
+    "id": 115,
+    "chain_id": 56,
+    "name": "titano",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x80f112CD8Ac529d6993090A0c9a04E01d495BfBf"
+    }
+  },
+  {
+    "id": 116,
+    "chain_id": 56,
+    "name": "orbitalswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x1A04Afe9778f95829017741bF46C9524B91433fB"
+    }
+  },
+  {
+    "id": 117,
+    "chain_id": 250,
+    "name": "wigoswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xC831A5cBfb4aC2Da5ed5B194385DFD9bF5bFcBa7"
+    }
+  },
+  {
+    "id": 118,
+    "chain_id": 43114,
+    "name": "swapsicle",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x9C60C867cE07a3c403E2598388673C10259EC768"
+    }
+  },
+  {
+    "id": 119,
+    "chain_id": 137,
+    "name": "dystopia",
+    "type": "solidly",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x1d21Db6cde1b18c7E47B0F7F42f4b3F68b9beeC9"
+    }
+  },
+  {
+    "id": 120,
+    "chain_id": 10,
+    "name": "sushiswap_bento",
+    "type": "sushiswap_bento",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "BentoBox": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+    }
+  },
+  {
+    "id": 121,
+    "chain_id": 56,
+    "name": "impossible_finance_v3",
+    "type": "solidly",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x4233ad9b8b7c1ccf0818907908a7f0796a3df85f"
+    }
+  },
+  {
+    "id": 122,
+    "chain_id": 100,
+    "name": "sushiswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+      "UniswapV2Factory": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+    }
+  },
+  {
+    "id": 123,
+    "chain_id": 100,
+    "name": "swapr",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x5D48C95AdfFD4B40c1AAADc4e08fc44117E02179"
+    }
+  },
+  {
+    "id": 124,
+    "chain_id": 1,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "PoolRegistry": "0xfb4de84c4375d7c8577327153de88f58f69eec81"
+    }
+  },
+  {
+    "id": 125,
+    "chain_id": 1,
+    "name": "balancer",
+    "type": "balancer",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+      "StablePoolFactory": "0xc66Ba2B6595D3613CCab350C886aCE23866EDe24",
+      "StablePoolFactoryV2": "0x8df6EfEc5547e31B0eb7d1291B511FF8a2bf987c",
+      "WeightedPoolFactory": "0x8E9aa87E45e92bad84D5F8DD1bff34Fb92637dE9",
+      "AaveLinearPoolFactory": "0xD7FAD3bd59D6477cbe1BE7f646F7f1BA25b230f8",
+      "ConvergentPoolFactory": "0xb7561f547F3207eDb42A6AfA42170Cd47ADD17BD",
+      "InvestmentPoolFactory": "0x48767F9F868a4A7b86A90736632F6E44C2df7fa9",
+      "MetaStablePoolFactory": "0x67d27634E44793fE63c467035E31ea8635117cd4",
+      "AaveLinearPoolV2Factory": "0x6A0AC04f5C2A10297D5FA79FA6358837a8770041",
+      "ERC4626LinearPoolFactory": "0xe061bf85648e9fa7b59394668cfeef980aec4c66",
+      "StablePhantomPoolFactory": "0xb08E16cFc07C684dAA2f93C70323BAdb2A6CBFd2",
+      "WeightedPool2TokensFactory": "0xA5bf2ddF098bb0Ef6d120C98217dD6B141c74EE0",
+      "ComposableStablePoolFactory": "0xf9ac7B9dF2b3454E841110CcE5550bD5AC6f875F",
+      "LiquidityBootstrappingPoolFactory": "0x751A0bC0e3f75b38e01Cf25bFCE7fF36DE1C87DE",
+      "HighAmpComposableStablePoolFactory": "0xBa1b4a90bAD57470a2cbA762A32955dC491f76e0",
+      "TempLiquidityBootstrappingPoolFactory": "0x0F3e0c4218b7b0108a3643cFe9D3ec0d4F57c54e",
+      "NoProtocolFeeLiquidityBootstrappingPoolFactory": "0x0F3e0c4218b7b0108a3643cFe9D3ec0d4F57c54e"
+    }
+  },
+  {
+    "id": 126,
+    "chain_id": 10,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "PoolRegistry": "0x4e1484607760118ebe2ab07c0c71f1b4d9671e01"
+    }
+  },
+  {
+    "id": 127,
+    "chain_id": 42161,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "PoolRegistry": "0x38262c17a06a6b3588d3e5b70dfa768c06bf4ef1"
+    }
+  },
+  {
+    "id": 128,
+    "chain_id": 100,
+    "name": "honeyswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7"
+    }
+  },
+  {
+    "id": 129,
+    "chain_id": 100,
+    "name": "baoswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x6093AeBAC87d62b1A5a4cEec91204e35020E38bE",
+      "UniswapV2Factory": "0x45DE240fbE2077dd3e711299538A09854FAE9c9b"
+    }
+  },
+  {
+    "id": 130,
+    "chain_id": 100,
+    "name": "levin_swap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x965769C9CeA8A7667246058504dcdcDb1E2975A5"
+    }
+  },
+  {
+    "id": 131,
+    "chain_id": 100,
+    "name": "elk_finance",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xCB018587dA9590A18f49fFE2b85314c33aF3Ad3B"
+    }
+  },
+  {
+    "id": 132,
+    "chain_id": 100,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 133,
+    "chain_id": 100,
+    "name": "empiredex",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348"
+    }
+  },
+  {
+    "id": 134,
+    "chain_id": 43114,
+    "name": "platypus",
+    "type": "platypus",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Asset": "0x416a7989a964C9ED60257B064Efc3a30FE6bF2eE"
+    }
+  },
+  {
+    "id": 135,
+    "chain_id": 250,
+    "name": "beethoven",
+    "type": "balancer",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Vault": "0x20dd72Ed959b6147912C2e529F0a0C651c33c9ce",
+      "StablePoolFactory": "0x55df810876354Fc3e249f701Dd78DeDE57991F8D",
+      "WeightedPoolFactory": "0x60467cb225092cE0c989361934311175f437Cf53",
+      "MetaStablePoolFactory": "0x70b55Af71B29c5Ca7e67bD1995250364C4bE5554",
+      "StablePhantomPoolFactory": "0x0E2AFa0b5F9174750d4E84Bf9798f89b79Bd5bF4",
+      "WeightedPool2TokensFactory": "0x92b377187bcCC6556FceD2f1e6DAd65850C20630",
+      "NoProtocolFeeLiquidityBootstrappingPoolFactory": "0x2C774732c93CE393eC8125bDA49fb3737Ae6F473"
+    }
+  },
+  {
+    "id": 136,
+    "chain_id": 10,
+    "name": "beethoven",
+    "type": "balancer",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+      "StablePoolFactory": "0xeb151668006CD04DAdD098AFd0a82e78F77076c3",
+      "WeightedPoolFactory": "0xdAE7e32ADc5d490a43cCba1f0c736033F2b4eFca",
+      "MetaStablePoolFactory": "0xb08E16cFc07C684dAA2f93C70323BAdb2A6CBFd2",
+      "WeightedPool2TokensFactory": "0x0F3e0c4218b7b0108a3643cFe9D3ec0d4F57c54e"
+    }
+  },
+  {
+    "id": 137,
+    "chain_id": 1,
+    "name": "pancakeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Factory": "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362"
+    }
+  },
+  {
+    "id": 138,
+    "chain_id": 56,
+    "name": "babydogeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xC9a0F685F39d05D835c369036251ee3aEaaF3c47",
+      "UniswapV2Factory": "0x4693B62E5fc9c0a45F89D62e6300a03C85f43137"
+    }
+  },
+  {
+    "id": 139,
+    "chain_id": 137,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xaf877420786516fc6692372c209e0056169eebaf",
+      "UniswapV2Factory": "0xB581D0A3b7Ea5cDc029260e989f768Ae167Ef39B"
+    }
+  },
+  {
+    "id": 140,
+    "chain_id": 42161,
+    "name": "balancer",
+    "type": "balancer",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+      "StablePoolFactory": "0xEF44D6786b2b4d544b7850Fe67CE6381626Bf2D6",
+      "StablePoolV2Factory": "0xEF44D6786b2b4d544b7850Fe67CE6381626Bf2D6",
+      "WeightedPoolFactory": "0x7dFdEF5f355096603419239CE743BfaF1120312B",
+      "AaveLinearPoolFactory": "0xdcdbf71A870cc60C6F9B621E28a7D3Ffd6Dd4965",
+      "InvestmentPoolFactory": "0xaCd615B3705B9c880E4E7293f1030B34e57B4c1c",
+      "MetaStablePoolFactory": "0xEBFD5681977E38Af65A7487DC70B8221D089cCAD",
+      "WeightedPoolV2Factory": "0x8df6EfEc5547e31B0eb7d1291B511FF8a2bf987c",
+      "AaveLinearPoolV2Factory": "0xe2E901AB09f37884BA31622dF3Ca7FC19AA443Be",
+      "ERC4626LinearPoolFactory": "0x2794953110874981a0d301286c986992022A62a1",
+      "StablePhantomPoolFactory": "0xdAE7e32ADc5d490a43cCba1f0c736033F2b4eFca",
+      "WeightedPool2TokensFactory": "0xCF0a32Bbef8F064969F21f7e02328FB577382018",
+      "ComposableStablePoolFactory": "0xaEb406b0E430BF5Ea2Dc0B9Fe62E4E53f74B3a33",
+      "LiquidityBootstrappingPoolFactory": "0x142B9666a0a3A30477b052962ddA81547E7029ab",
+      "TempLiquidityBootstrappingPoolFactory": "0x1802953277FD955f9a254B80Aa0582f193cF1d77",
+      "NoProtocolFeeLiquidityBootstrappingPoolFactory": "0x1802953277FD955f9a254B80Aa0582f193cF1d77"
+    }
+  },
+  {
+    "id": 142,
+    "chain_id": 137,
+    "name": "balancer",
+    "type": "balancer",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+      "Gyro2PoolFactory": "0x5d8545a7330245150bE0Ce88F8afB0EDc41dFc34",
+      "Gyro3PoolFactory": "0x90f08B3705208E41DbEEB37A42Fb628dD483AdDa",
+      "GyroEPoolFactory": "0xD4204551BC5397455f8897745d50Ac4F6beE0EF6",
+      "StablePoolFactory": "0xcA96C4f198d343E251b1a01F3EBA061ef3DA73C1",
+      "StablePoolV2Factory": "0xcA96C4f198d343E251b1a01F3EBA061ef3DA73C1",
+      "WeightedPoolFactory": "0x8E9aa87E45e92bad84D5F8DD1bff34Fb92637dE9",
+      "AaveLinearPoolFactory": "0xf302f9F50958c5593770FDf4d4812309fF77414f",
+      "InvestmentPoolFactory": "0x0f7bb7ce7b6ed9366F9b6B910AdeFE72dC538193",
+      "MetaStablePoolFactory": "0xdAE7e32ADc5d490a43cCba1f0c736033F2b4eFca",
+      "WeightedPoolV2Factory": "0x0e39C3D9b2ec765eFd9c5c70BB290B1fCD8536E3",
+      "AaveLinearPoolV2Factory": "0x8df6EfEc5547e31B0eb7d1291B511FF8a2bf987c",
+      "ERC4626LinearPoolFactory": "0xC6bD2497332d24094eC16a7261eec5C412B5a2C1",
+      "StablePhantomPoolFactory": "0xC128a9954e6c874eA3d62ce62B468bA073093F25",
+      "WeightedPool2TokensFactory": "0xA5bf2ddF098bb0Ef6d120C98217dD6B141c74EE0",
+      "ComposableStablePoolFactory": "0x136FD06Fa01eCF624C7F2B3CB15742c1339dC2c4",
+      "ERC4626LinearPoolFactoryBeta": "0xC6bD2497332d24094eC16a7261eec5C412B5a2C1",
+      "LiquidityBootstrappingPoolFactory": "0x751A0bC0e3f75b38e01Cf25bFCE7fF36DE1C87DE",
+      "TempLiquidityBootstrappingPoolFactory": "0x41B953164995c11C81DA73D212ED8Af25741b7Ac",
+      "NoProtocolFeeLiquidityBootstrappingPoolFactory": "0x41B953164995c11C81DA73D212ED8Af25741b7Ac"
+    }
+  },
+  {
+    "id": 143,
+    "chain_id": 1,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x3e445e3280C5747a188DB8d0aB7762838A50E4ff",
+      "UniswapV2Factory": "0x91fAe1bc94A9793708fbc66aDcb59087C46dEe10"
+    }
+  },
+  {
+    "id": 144,
+    "chain_id": 56,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x5bc3ED94919af03279c8613cB807ab667cE5De99",
+      "UniswapV2Factory": "0x98957ab49b8bc9f7ddbCfD8BcC83728085ecb238"
+    }
+  },
+  {
+    "id": 145,
+    "chain_id": 43114,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x763D8D37669bB18064b410e17E3bB46BCF34F487",
+      "UniswapV2Factory": "0xA0FbfDa09B8815Dd42dDC70E4f9fe794257CD9B6"
+    }
+  },
+  {
+    "id": 146,
+    "chain_id": 250,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x4e2a57A8ffE65F794e9A32637Bc67b502fFc84C6",
+      "UniswapV2Factory": "0x5eF0153590D4a762F129dCf3c59186D91365e4e1"
+    }
+  },
+  {
+    "id": 147,
+    "chain_id": 10,
+    "name": "radioshack",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x68797130D8E63745761C524C33121fdD7290cB72",
+      "UniswapV2Factory": "0x5eF0153590D4a762F129dCf3c59186D91365e4e1"
+    }
+  },
+  {
+    "id": 148,
+    "chain_id": 1,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 149,
+    "chain_id": 56,
+    "name": "padswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x76437234D29f84D9A12820A137c6c6A719138C24",
+      "UniswapV2Factory": "0xB836017ACf10b8A7c6c6C9e99eFE0f5B0250FC45"
+    }
+  },
+  {
+    "id": 150,
+    "chain_id": 1,
+    "name": "apeswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0x5f509a3C3F16dF2Fba7bF84dEE1eFbce6BB85587",
+      "UniswapV2Factory": "0xBAe5dc9B19004883d0377419FeF3c2C8832d7d7B"
+    }
+  },
+  {
+    "id": 151,
+    "chain_id": 137,
+    "name": "sushiswap_bento",
+    "type": "sushiswap_bento",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "BentoBox": "0x0319000133d3AdA02600f0875d2cf03D442C3367"
+    }
+  },
+  {
+    "id": 152,
+    "chain_id": 56,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 153,
+    "chain_id": 137,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 154,
+    "chain_id": 43114,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 155,
+    "chain_id": 250,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 156,
+    "chain_id": 42161,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 157,
+    "chain_id": 10,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 158,
+    "chain_id": 10,
+    "name": "kyber",
+    "type": "dmm",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "IDMMFactory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
+      "IDMMRouter02": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6"
+    }
+  },
+  {
+    "id": 160,
+    "chain_id": 10,
+    "name": "fraxswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV2Router": "0xB9A55F455e46e8D717eEA5E47D2c449416A0437F",
+      "UniswapV2Factory": "0x67a1412d2D6CbF211bb71F8e851b4393b491B10f"
+    }
+  },
+  {
+    "id": 161,
+    "chain_id": 42220,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 162,
+    "chain_id": 43114,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x9FCFD9ff955D36856F8EE480471B05488C0eB5cA"
+    }
+  },
+  {
+    "id": 163,
+    "chain_id": 10,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x677dD94031b3263Bd0E27ef5093C69A1a3037a00"
+    }
+  },
+  {
+    "id": 164,
+    "chain_id": 1,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x95C4F5b83aA70810D4f142d58e5F7242Bd891CB0"
+    }
+  },
+  {
+    "id": 165,
+    "chain_id": 56,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0xcaa42F09AF66A8BAE3A7445a7f63DAD97c11638b"
+    }
+  },
+  {
+    "id": 166,
+    "chain_id": 137,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x3CD6D7F5fF977bf8069548eA1F9441b061162b42"
+    }
+  },
+  {
+    "id": 167,
+    "chain_id": 42161,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x01d3E7271c278Aa3AA56EeBa6a109b2C200679fA"
+    }
+  },
+  {
+    "id": 168,
+    "chain_id": 43114,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x9FCFD9ff955D36856F8EE480471B05488C0eB5cA"
+    }
+  },
+  {
+    "id": 169,
+    "chain_id": 10,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x677dD94031b3263Bd0E27ef5093C69A1a3037a00"
+    }
+  }
+]
