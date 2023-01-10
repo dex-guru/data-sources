@@ -1,0 +1,13 @@
+[
+  {
+    "id": 86,
+    "chain_id": 56,
+    "name": "ellipsis",
+    "type": "ellipsis",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x31D236483A15F9B9dD60b36D4013D75e9dbF852b"
+    }
+  }
+]

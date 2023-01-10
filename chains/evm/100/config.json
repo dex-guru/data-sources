@@ -1,0 +1,25 @@
+[
+  {
+    "id": 100,
+    "name": "gnosis",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "native_token": {
+      "id": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d-gnosis",
+      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+      "name": "Wrapped xDAI",
+      "symbol": "xDAI",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x44fa8e6f47987339850636f88629646662444217",
+      "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+    ],
+    "base_fee": null,
+    "max_priority_fees": {
+
+    },
+    "fee_timestamp": null
+  }
+]

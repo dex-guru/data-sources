@@ -1,0 +1,80 @@
+[
+  {
+    "id": 90,
+    "chain_id": 56,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xF6A8E47daEEdDcCe297e7541523e27DF2f167BF3",
+      "DODORouteProxy": "0x6B3D817814eABc984d51896b1015C0b89E9737Ca",
+      "GnosisSafeProxy": "0xcaa42F09AF66A8BAE3A7445a7f63DAD97c11638b"
+    }
+  },
+  {
+    "id": 92,
+    "chain_id": 1,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x95C4F5b83aA70810D4f142d58e5F7242Bd891CB0"
+    }
+  },
+  {
+    "id": 94,
+    "chain_id": 137,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0x813FddecCD0401c4Fa73B092b074802440544E52",
+      "DODORouteProxy": "0x2fA4334cfD7c56a0E7Ca02BD81455205FcBDc5E9",
+      "GnosisSafeProxy": "0x3CD6D7F5fF977bf8069548eA1F9441b061162b42"
+    }
+  },
+  {
+    "id": 95,
+    "chain_id": 42161,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xe4B2Dfc82977dd2DCE7E8d37895a6A8F50CbB4fB",
+      "DODORouteProxy": "0x3B6067D4CAa8A14c63fdBE6318F27A0bBc9F9237",
+      "GnosisSafeProxy": "0x01d3E7271c278Aa3AA56EeBa6a109b2C200679fA"
+    }
+  },
+  {
+    "id": 162,
+    "chain_id": 43114,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x9FCFD9ff955D36856F8EE480471B05488C0eB5cA"
+    }
+  },
+  {
+    "id": 163,
+    "chain_id": 10,
+    "name": "dodo",
+    "type": "dodo",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
+      "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
+      "GnosisSafeProxy": "0x677dD94031b3263Bd0E27ef5093C69A1a3037a00"
+    }
+  }
+]

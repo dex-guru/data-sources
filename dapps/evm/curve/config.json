@@ -1,0 +1,90 @@
+[
+  {
+    "id": 78,
+    "chain_id": 1,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 81,
+    "chain_id": 42161,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 82,
+    "chain_id": 43114,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 83,
+    "chain_id": 250,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 84,
+    "chain_id": 10,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 85,
+    "chain_id": 137,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+  {
+    "id": 132,
+    "chain_id": 100,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  },
+    {
+    "id": 161,
+    "chain_id": 42220,
+    "name": "curve",
+    "type": "curve",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
+    }
+  }
+]

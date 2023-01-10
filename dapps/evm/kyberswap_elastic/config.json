@@ -1,0 +1,107 @@
+[
+  {
+    "id": 148,
+    "chain_id": 1,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 152,
+    "chain_id": 56,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 153,
+    "chain_id": 137,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 154,
+    "chain_id": 43114,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 155,
+    "chain_id": 250,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 156,
+    "chain_id": 42161,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  },
+  {
+    "id": 157,
+    "chain_id": 10,
+    "name": "kyberswap_elastic",
+    "type": "kyberswap_elastic",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
+      "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
+      "Factory": "0x5F1dddbf348aC2fbe22a163e30F99F9ECE3DD50a",
+      "PositionManager": "0x2B1c7b41f6A8F2b2bc45C3233a5d5FB3cD6dC9A8",
+      "TicksFeesReader": "0xD7ab1699280980E756C446769B4c0F04550f88c9"
+    }
+  }
+]

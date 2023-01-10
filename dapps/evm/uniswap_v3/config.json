@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2,
+    "chain_id": 1,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+    {
+    "id": 8,
+    "chain_id": 42161,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 21,
+    "chain_id": 137,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 55,
+    "chain_id": 10,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "Multicall2": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+      "ProxyAdmin": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2",
+      "SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "V3Migrator": "0xA5644E29708357803b5A882D272c41cC0dF92B34",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "TransparentUpgradeableProxy": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785",
+      "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+    }
+  },
+  {
+    "id": 74,
+    "chain_id": 56,
+    "name": "sheepdex",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "Quoter": "0x6fbe54c589d3aC30DCd8FdD4fcB84C1b43f1F552",
+      "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
+      "SwapRouter": "0xcD87782A717F40542e18C61Ebb7210d3132e17d8",
+      "NFTDescriptor": "0x42B24A95702b9986e82d421cC3568932790A48Ec",
+      "UniswapV3Factory": "0x571521f8c16f3c4eD5f2490f19187bA7A5A3CBDf"
+    }
+  },
+  {
+    "id": 99,
+    "chain_id": 42220,
+    "name": "uniswap_v3",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "UniswapV3Factory": "0xAfE208a311B21f13EF87E33A90049fC17A7acDEc"
+    }
+  }
+]

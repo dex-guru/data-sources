@@ -1,0 +1,74 @@
+[
+  {
+    "id": 164,
+    "chain_id": 1,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x95C4F5b83aA70810D4f142d58e5F7242Bd891CB0"
+    }
+  },
+  {
+    "id": 165,
+    "chain_id": 56,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0xcaa42F09AF66A8BAE3A7445a7f63DAD97c11638b"
+    }
+  },
+  {
+    "id": 166,
+    "chain_id": 137,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x3CD6D7F5fF977bf8069548eA1F9441b061162b42"
+    }
+  },
+  {
+    "id": 167,
+    "chain_id": 42161,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x01d3E7271c278Aa3AA56EeBa6a109b2C200679fA"
+    }
+  },
+  {
+    "id": 168,
+    "chain_id": 43114,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x9FCFD9ff955D36856F8EE480471B05488C0eB5cA"
+    }
+  },
+  {
+    "id": 169,
+    "chain_id": 10,
+    "name": "dodo_v2",
+    "type": "dodo_v2",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "DVM": "0xfb8c399f1187bdb5adf2007b32d5d76651b77ff4",
+      "GnosisSafeProxy": "0x677dD94031b3263Bd0E27ef5093C69A1a3037a00"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 79,
+    "chain_id": 1,
+    "name": "1inch",
+    "type": "1inch",
+    "enabled": true,
+    "last_pair_index": 0,
+    "contracts": {
+      "OneInchFactory": "0x71CD6666064C3A1354a3B4dca5fA1E2D3ee7D303"
+    }
+  }
+]

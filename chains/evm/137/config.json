@@ -1,0 +1,34 @@
+[
+  {
+    "id": 137,
+    "name": "polygon",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "native_token": {
+      "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270-polygon",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "name": "WMATIC2",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+      "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
+      "0x104592a158490a9228070e0a8e5343b499e125d0",
+      "0xd2eba21c2e0d6f996fdd063ae20aca8264ac1929",
+      "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
+      "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+      "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+      "0x1a13f4ca1d028320a707d99520abfefca3998b7f"
+    ],
+    "base_fee": null,
+    "max_priority_fees": {
+
+    },
+    "fee_timestamp": null
+  }
+]
