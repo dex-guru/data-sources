@@ -6,7 +6,6 @@
     "enabled": true,
     "native_token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "native_token": {
-      "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2-eth",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "Wrapped Ether",
       "symbol": "WETH",
@@ -25,11 +24,6 @@
       "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
       "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
       "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0"
-    ],
-    "base_fee": null,
-    "max_priority_fees": {
-
-    },
-    "fee_timestamp": null
+    ]
   }
 ]

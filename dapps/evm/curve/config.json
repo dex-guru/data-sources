@@ -5,7 +5,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -16,7 +15,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -27,7 +25,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -38,7 +35,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -49,7 +45,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -60,7 +55,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -71,7 +65,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }
@@ -82,7 +75,6 @@
     "name": "curve",
     "type": "curve",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "AddressProvider": "0x0000000022D53366457F9d5E68Ec105046FC4383"
     }

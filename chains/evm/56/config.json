@@ -6,7 +6,6 @@
     "enabled": true,
     "native_token_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
     "native_token": {
-      "id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c-bsc",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "name": "Wrapped BNB",
       "symbol": "WBNB",
@@ -21,11 +20,6 @@
       "0x29ced01c447166958605519f10dcf8b0255fb379",
       "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e",
       "0x03ab98f5dc94996f8c33e15cd4468794d12d41f9"
-    ],
-    "base_fee": null,
-    "max_priority_fees": {
-
-    },
-    "fee_timestamp": null
+    ]
   }
 ]

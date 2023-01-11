@@ -6,7 +6,6 @@
     "enabled": true,
     "native_token_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "native_token": {
-      "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7-avalanche",
       "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
@@ -19,10 +18,5 @@
       "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
       "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64"
     ],
-    "base_fee": null,
-    "max_priority_fees": {
-
-    },
-    "fee_timestamp": null
   }
 ]

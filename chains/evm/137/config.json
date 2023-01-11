@@ -6,7 +6,6 @@
     "enabled": true,
     "native_token_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
     "native_token": {
-      "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270-polygon",
       "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "name": "WMATIC2",
       "symbol": "WMATIC",
@@ -24,11 +23,6 @@
       "0x60d55f02a771d515e077c9c2403a1ef324885cec",
       "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
       "0x1a13f4ca1d028320a707d99520abfefca3998b7f"
-    ],
-    "base_fee": null,
-    "max_priority_fees": {
-
-    },
-    "fee_timestamp": null
+    ]
   }
 ]

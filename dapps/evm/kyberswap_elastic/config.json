@@ -1,11 +1,9 @@
 [
   {
-    "id": 148,
     "chain_id": 1,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -15,12 +13,10 @@
     }
   },
   {
-    "id": 152,
     "chain_id": 56,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -30,12 +26,10 @@
     }
   },
   {
-    "id": 153,
     "chain_id": 137,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -45,12 +39,10 @@
     }
   },
   {
-    "id": 154,
     "chain_id": 43114,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -60,12 +52,10 @@
     }
   },
   {
-    "id": 155,
     "chain_id": 250,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -75,12 +65,10 @@
     }
   },
   {
-    "id": 156,
     "chain_id": 42161,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",
@@ -90,12 +78,10 @@
     }
   },
   {
-    "id": 157,
     "chain_id": 10,
     "name": "kyberswap_elastic",
     "type": "kyberswap_elastic",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x0D125c15D54cA1F8a813C74A81aEe34ebB508C1f",
       "Router": "0xC1e7dFE73E1598E3910EF4C7845B68A9Ab6F4c83",

@@ -5,7 +5,6 @@
     "name": "bancor_v2",
     "type": "bancor_v2",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "ContractRegistry": "0x52Ae12ABe5D8BD778BD5397F99cA900624CfADD4"
     }

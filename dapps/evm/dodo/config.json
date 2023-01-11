@@ -5,7 +5,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0xF6A8E47daEEdDcCe297e7541523e27DF2f167BF3",
       "DODORouteProxy": "0x6B3D817814eABc984d51896b1015C0b89E9737Ca",
@@ -18,7 +17,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
       "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
@@ -31,7 +29,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0x813FddecCD0401c4Fa73B092b074802440544E52",
       "DODORouteProxy": "0x2fA4334cfD7c56a0E7Ca02BD81455205FcBDc5E9",
@@ -44,7 +41,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0xe4B2Dfc82977dd2DCE7E8d37895a6A8F50CbB4fB",
       "DODORouteProxy": "0x3B6067D4CAa8A14c63fdBE6318F27A0bBc9F9237",
@@ -57,7 +53,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
       "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",
@@ -70,7 +65,6 @@
     "name": "dodo",
     "type": "dodo",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "DODO": "0xC9f93163c99695c6526b799EbcA2207Fdf7D61aD",
       "DODORouteProxy": "0xa2398842F37465f89540430bDC00219fA9E4D28a",

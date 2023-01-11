@@ -5,7 +5,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
       "IDMMRouter02": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6"
@@ -17,7 +16,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x878dFE971d44e9122048308301F540910Bbd934c",
       "IDMMRouter02": "0x78df70615ffc8066cc0887917f2Cd72092C86409"
@@ -29,7 +27,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x5f1fe642060b5b9658c15721ea22e982643c095c",
       "IDMMRouter02": "0x546C79662E028B661dFB4767664d0273184E4dD1"
@@ -41,7 +38,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
       "IDMMRouter02": "0x5d5A5a0a465129848c2549669e12cDC2f8DE039A"
@@ -53,7 +49,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x10908C875D865C66f271F5d3949848971c9595C9",
       "IDMMRouter02": "0x8Efa5A9AD6D594Cf76830267077B78cE0Bc5A5F8"
@@ -65,7 +60,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x51E8D106C646cA58Caf32A47812e95887C071a62",
       "IDMMRouter02": "0x51E8D106C646cA58Caf32A47812e95887C071a62"
@@ -77,7 +71,6 @@
     "name": "kyber",
     "type": "dmm",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "IDMMFactory": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
       "IDMMRouter02": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6"

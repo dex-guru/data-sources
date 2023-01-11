@@ -1,11 +1,9 @@
 [
   {
-    "id": 2,
     "chain_id": 1,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
       "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
@@ -21,12 +19,10 @@
     }
   },
     {
-    "id": 8,
-    "chain_id": 42161,
+      "chain_id": 42161,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
       "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
@@ -42,12 +38,10 @@
     }
   },
   {
-    "id": 21,
     "chain_id": 137,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
       "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
@@ -63,12 +57,10 @@
     }
   },
   {
-    "id": 55,
     "chain_id": 10,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6",
       "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
@@ -84,12 +76,10 @@
     }
   },
   {
-    "id": 74,
     "chain_id": 56,
     "name": "sheepdex",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Quoter": "0x6fbe54c589d3aC30DCd8FdD4fcB84C1b43f1F552",
       "TickLens": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573",
@@ -99,12 +89,10 @@
     }
   },
   {
-    "id": 99,
     "chain_id": 42220,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "UniswapV3Factory": "0xAfE208a311B21f13EF87E33A90049fC17A7acDEc"
     }

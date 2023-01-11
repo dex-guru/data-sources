@@ -5,7 +5,6 @@
     "name": "balancer",
     "type": "balancer",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
       "StablePoolFactory": "0xc66Ba2B6595D3613CCab350C886aCE23866EDe24",
@@ -32,7 +31,6 @@
     "name": "beethoven",
     "type": "balancer",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Vault": "0x20dd72Ed959b6147912C2e529F0a0C651c33c9ce",
       "StablePoolFactory": "0x55df810876354Fc3e249f701Dd78DeDE57991F8D",
@@ -49,7 +47,6 @@
     "name": "beethoven",
     "type": "balancer",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
       "StablePoolFactory": "0xeb151668006CD04DAdD098AFd0a82e78F77076c3",
@@ -64,7 +61,6 @@
     "name": "balancer",
     "type": "balancer",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
       "StablePoolFactory": "0xEF44D6786b2b4d544b7850Fe67CE6381626Bf2D6",
@@ -90,7 +86,6 @@
     "name": "balancer",
     "type": "balancer",
     "enabled": true,
-    "last_pair_index": 0,
     "contracts": {
       "Vault": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
       "Gyro2PoolFactory": "0x5d8545a7330245150bE0Ce88F8afB0EDc41dFc34",

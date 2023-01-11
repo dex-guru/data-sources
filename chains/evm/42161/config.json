@@ -6,7 +6,6 @@
     "enabled": true,
     "native_token_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     "native_token": {
-      "id": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1-arbitrum",
       "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
       "name": "WETH",
       "symbol": "WETH",
@@ -16,11 +15,6 @@
       "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
       "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
       "0xa970af1a584579b618be4d69ad6f73459d112f95"
-    ],
-    "base_fee": null,
-    "max_priority_fees": {
-
-    },
-    "fee_timestamp": null
+    ]
   }
 ]
