@@ -40,6 +40,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
       <recent name="$PROJECT_DIR$/dapps/evm" />
       <recent name="$PROJECT_DIR$/chains/evm" />
     </key>
@@ -57,6 +58,7 @@
       <workItem from="1673482599751" duration="1018000" />
       <workItem from="1673483647615" duration="138000" />
       <workItem from="1673497354806" duration="294000" />
+      <workItem from="1673497662176" duration="403000" />
     </task>
     <servers />
   </component>
