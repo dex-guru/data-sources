@@ -4,6 +4,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
   run:
-    steps:
-    - name: Run JSON Lint
-      run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
+  - name: Run JSON Lint
+    run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
