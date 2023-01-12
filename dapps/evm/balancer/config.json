@@ -1,6 +1,5 @@
 [
   {
-    "id": 125,
     "chain_id": 1,
     "name": "balancer",
     "type": "balancer",
@@ -26,7 +25,6 @@
     }
   },
   {
-    "id": 135,
     "chain_id": 250,
     "name": "beethoven",
     "type": "balancer",
@@ -42,7 +40,6 @@
     }
   },
   {
-    "id": 136,
     "chain_id": 10,
     "name": "beethoven",
     "type": "balancer",
@@ -56,7 +53,6 @@
     }
   },
   {
-    "id": 140,
     "chain_id": 42161,
     "name": "balancer",
     "type": "balancer",
@@ -81,7 +77,6 @@
     }
   },
   {
-    "id": 142,
     "chain_id": 137,
     "name": "balancer",
     "type": "balancer",

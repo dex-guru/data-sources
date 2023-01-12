@@ -1,6 +1,5 @@
 [
   {
-    "id": 12,
     "chain_id": 1,
     "name": "kyber",
     "type": "dmm",
@@ -11,7 +10,6 @@
     }
   },
   {
-    "id": 56,
     "chain_id": 56,
     "name": "kyber",
     "type": "dmm",
@@ -22,7 +20,6 @@
     }
   },
   {
-    "id": 57,
     "chain_id": 137,
     "name": "kyber",
     "type": "dmm",
@@ -33,7 +30,6 @@
     }
   },
   {
-    "id": 58,
     "chain_id": 250,
     "name": "kyber",
     "type": "dmm",
@@ -44,7 +40,6 @@
     }
   },
   {
-    "id": 88,
     "chain_id": 43114,
     "name": "kyber",
     "type": "dmm",
@@ -55,7 +50,6 @@
     }
   },
   {
-    "id": 89,
     "chain_id": 42161,
     "name": "kyber",
     "type": "dmm",
@@ -65,8 +59,7 @@
       "IDMMRouter02": "0x51E8D106C646cA58Caf32A47812e95887C071a62"
     }
   },
-  {
-    "id": 158,
+  {,
     "chain_id": 10,
     "name": "kyber",
     "type": "dmm",

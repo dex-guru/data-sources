@@ -1,6 +1,5 @@
 [
   {
-    "id": 90,
     "chain_id": 56,
     "name": "dodo",
     "type": "dodo",
@@ -12,7 +11,6 @@
     }
   },
   {
-    "id": 92,
     "chain_id": 1,
     "name": "dodo",
     "type": "dodo",
@@ -24,7 +22,6 @@
     }
   },
   {
-    "id": 94,
     "chain_id": 137,
     "name": "dodo",
     "type": "dodo",
@@ -36,7 +33,6 @@
     }
   },
   {
-    "id": 95,
     "chain_id": 42161,
     "name": "dodo",
     "type": "dodo",
@@ -48,7 +44,6 @@
     }
   },
   {
-    "id": 162,
     "chain_id": 43114,
     "name": "dodo",
     "type": "dodo",
@@ -60,7 +55,6 @@
     }
   },
   {
-    "id": 163,
     "chain_id": 10,
     "name": "dodo",
     "type": "dodo",
