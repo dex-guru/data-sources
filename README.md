@@ -24,5 +24,3 @@ Example:
     }
   }
 ```
-
-**Currently, we accept merge requests for dapps only** 
