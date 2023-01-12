@@ -8,10 +8,10 @@ Under the chains folder are the current configs for chains, with folders inside 
 Under the dapps folder, in dapps/evm, are dapps/AMMs/market aggregators, sorted by type of AMM 
 (ex: AMMs running on uniswap_v2 go under uniswap_v2)
 
-If you want to add an aggregator/AMM to dex.guru's indexation, you can fill in the details with the same template as the 
+If you want to add a chain, aggregator or AMM to dex.guru's indexation, you can fill in the details with the same template as the 
 JSON you're editing and submit a merge request
 
-Example:
+Examples:
 ```json
   {
     "chain_id": 137,
@@ -22,5 +22,25 @@ Example:
       "UniswapV2Router": "0x0",
       "UniswapV2Factory": "0x0"
     }
+  }
+```
+```json
+  {
+    "id": 1337,
+    "name": "fakechain",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x0",
+    "native_token": {
+      "address": "0x0",
+      "name": "Wrapped Fakes",
+      "symbol": "WFAKE",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x0",
+      "0x0",
+      "0x0"    
+    ]
   }
 ```
