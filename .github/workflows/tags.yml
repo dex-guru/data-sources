@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  workflow_run:
+    workflows: [ "Validate tags" ]
+    types:
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: update tags
+        run: |
+          jq -s 'flatten' *.json > merged.json;
+          curl -X 'POST' \
+              ${{ secrets.URL_1 }} \
+              -H 'accept: application/json' \
+              -H 'Content-Type: multipart/form-data' \
+              -F 'file=@merged.json;type=application/json'
+              
+          curl -X 'POST' \
+              ${{ secrets.URL_2 }} \
+              -H 'accept: application/json' \
+              -H 'Content-Type: multipart/form-data' \
+              -F 'file=@merged.json;type=application/json'
+          rm merged.json;
