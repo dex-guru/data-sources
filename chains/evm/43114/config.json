@@ -1,0 +1,22 @@
+[
+  {
+    "id": 43114,
+    "name": "avalanche",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "native_token": {
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64"
+    ],
+  }
+]

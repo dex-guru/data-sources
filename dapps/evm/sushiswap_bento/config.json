@@ -1,0 +1,20 @@
+[
+  {
+    "chain_id": 10,
+    "name": "sushiswap_bento",
+    "type": "sushiswap_bento",
+    "enabled": true,
+    "contracts": {
+      "BentoBox": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+    }
+  },
+  {
+    "chain_id": 137,
+    "name": "sushiswap_bento",
+    "type": "sushiswap_bento",
+    "enabled": true,
+    "contracts": {
+      "BentoBox": "0x0319000133d3AdA02600f0875d2cf03D442C3367"
+    }
+  }
+]

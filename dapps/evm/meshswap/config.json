@@ -1,0 +1,11 @@
+[
+  {
+    "chain_id": 137,
+    "name": "meshswap",
+    "type": "meshswap",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Factory": "0x9f3044f7f9fc8bc9ed615d54845b4577b833282d"
+    }
+  }
+]
