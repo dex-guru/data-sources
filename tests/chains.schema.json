@@ -1,6 +1,6 @@
 {
-  "title": "DexGuru Token List",
-  "description": "Schema for lists of tokens and tags compatible with the DexGuru Interface",
+  "title": "DexGuru Chains Schema",
+  "description": "Schema for lists of chains compatible with the DexGuru Interface",
   "definitions": {
     "Version": {
       "type": "object",
