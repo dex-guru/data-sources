@@ -15,6 +15,7 @@ jobs:
       - name: update tags
         run: |
           jq -s 'flatten' *.json > merged.json;
+
           curl -X 'POST' \
               ${{ secrets.URL_1 }} \
               -H 'accept: application/json' \
@@ -26,4 +27,5 @@ jobs:
               -H 'accept: application/json' \
               -H 'Content-Type: multipart/form-data' \
               -F 'file=@merged.json;type=application/json'
+
           rm merged.json;
