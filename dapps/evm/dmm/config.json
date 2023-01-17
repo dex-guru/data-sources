@@ -59,7 +59,7 @@
       "IDMMRouter02": "0x51E8D106C646cA58Caf32A47812e95887C071a62"
     }
   },
-  {,
+  {
     "chain_id": 10,
     "name": "kyber",
     "type": "dmm",
