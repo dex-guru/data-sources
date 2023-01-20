@@ -1,18 +1,20 @@
-# Dex.guru Data Sources 
+# DexGuru Data Sources 
 
-Dex.guru indexes chains and market aggregators to get the most accurate data possible. Our indexation works through a
-configuration system with multiple JSONs for configs.
+DexGuru indexes blockchains and on-chain markets to get the most accurate data possible. Our indexation pipeline works through a
+configuration system with multiple JSONs for configs. 
 
-Under the chains folder are the current configs for chains, with folders inside chains/evm named for their chain id 
+> [Data FAQ at our Gitbook](https://docs.dex.guru/data/data-faq)
+
+Under the chains folder are the current configs for chains, with folders inside chains/evm named for their [chain id](https://chainlist.org/) 
 (Ethereum = 1, Polygon = 137, BSC = 56, etc.)
 
 Under the dapps folder, in dapps/evm, are dapps/AMMs/market aggregators, sorted by type of AMM 
 (ex: AMMs running on uniswap_v2 go under uniswap_v2)
 
 
-# Chains Integration
+# New Blockchain Integration
 
-Chains integration starts from submitting of chain config in current repo, and being picked up by developers team
+Blockchain integration starts from submitting of chain config in current repo, and being picked up by developers team
 at PR stage. After submitting the PR please contact us at [Discord](https://discord.com/channels/779159507967672360/928096490134573087), so we would be able
 to figure out infrastructure/metadata (names, logos) questions before getting into staging and production environments (merging the PR).
 
@@ -52,7 +54,7 @@ ETH Chain config example:
 # Dapps (currently AMMs) Integration
 
 Dapps are divided by chain type (currenlty it's evm only), and dapp type. For example if you have an AMM you want to add
-to dex.guru and it's fork, by means of parsed SWAP/BURNS/MINTS/SYNC events, of Uniswap V2, you would add it to the uniswap_v2 folder. 
+to DexGuru and it's fork, by means of parsed SWAP/BURNS/MINTS/SYNC events, of Uniswap V2, you would add it to the uniswap_v2 folder. 
 After submitting the PR please contact us at [Discord](https://discord.com/channels/779159507967672360/928096490134573087), so we would be able 
 to add metadata/logos to the dapp, otherwise it would be indexed and shown on dex.guru with default Unknown branding after
 merging to main and deploying to dex.guru staging and production envs.
