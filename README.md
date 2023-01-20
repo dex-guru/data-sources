@@ -3,13 +3,16 @@
 DexGuru indexes blockchains and on-chain markets to get the most accurate data possible. Our indexation pipeline works through a
 configuration system with multiple JSONs for configs. 
 
-> [Data FAQ at our Gitbook](https://docs.dex.guru/data/data-faq)
-
 Under the chains folder are the current configs for chains, with folders inside chains/evm named for their [chain id](https://chainlist.org/) 
 (Ethereum = 1, Polygon = 137, BSC = 56, etc.)
 
 Under the dapps folder, in dapps/evm, are dapps/AMMs/market aggregators, sorted by type of AMM 
 (ex: AMMs running on uniswap_v2 go under uniswap_v2)
+
+> Further reading: 
+>   -  [Data FAQ at our Gitbook](https://docs.dex.guru/data/data-faq)
+>   -  [Supported Markets](https://dex.guru/markets)
+>   - [Off-chain data usage](https://docs.dex.guru/data/off-chain-data-usage)
 
 
 # New Blockchain Integration
