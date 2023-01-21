@@ -1,25 +1,35 @@
 # DexGuru Data Sources 
 
-DexGuru indexes blockchains and on-chain markets to get the most accurate data possible. Our indexation pipeline works through a
-configuration system with multiple JSONs for configs. 
+At DexGuru, we are dedicated to providing the most accurate and up-to-date information on on-chain markets and asset movements. Our indexation pipeline is a robust system that utilizes multiple JSON configurations to ensure accuracy and reliability. However, we understand that the process of adding new data sources, such as new blockchains and decentralized exchanges, can be complex and opaque. That's why we are committed to streamlining and simplifying this process to make it more transparent and open to the community. With this approach, we aim to empower defi community to have better access to the latest information and trends in on-chain data space.
 
+## Repo Structure
 Under the chains folder are the current configs for chains, with folders inside chains/evm named for their [chain id](https://chainlist.org/) 
 (Ethereum = 1, Polygon = 137, BSC = 56, etc.)
 
-Under the dapps folder, in dapps/evm, are dapps/AMMs/market aggregators, sorted by type of AMM 
-(ex: AMMs running on uniswap_v2 go under uniswap_v2)
+Under the dapps folder, in dapps/evm, are dapps/AMMs/market, sorted by type of AMM 
+(ex: AMMs running on uniswap_v2 or Uniiswap v2 forks goes under uniswap_v2).  
 
-> Further reading: 
->   -  [Data FAQ at our Gitbook](https://docs.dex.guru/data/data-faq)
->   -  [Supported Markets](https://dex.guru/markets)
+Further reading: 
+>   - [Data FAQ at our Gitbook](https://docs.dex.guru/data/data-faq)
+>   - [Supported Markets](https://dex.guru/markets)
 >   - [Off-chain data usage](https://docs.dex.guru/data/off-chain-data-usage)
 
 
 # New Blockchain Integration
 
-Blockchain integration starts from submitting of chain config in current repo, and being picked up by developers team
-at PR stage. After submitting the PR please contact us at [Discord](https://discord.com/channels/779159507967672360/928096490134573087), so we would be able
-to figure out infrastructure/metadata (names, logos) questions before getting into staging and production environments (merging the PR).
+Blockchain integration starts from submitting of chain config in a current repo, and being picked up by developers team at PR stage. 
+
+### New Blockchain Submissions:
+We'll need the following to integrate your **EVM-compatible** blockchain: 
+
+- [ ] At least one AMM on your chain with a daily volume over $100k. Please include it in your PR.    
+- [ ] Your chain logo. Add a link to a PR description or attach to a new issue in this repo. 
+- [ ] You native token logo should be added at [assets repo](https://github.com/dex-guru/assets)  
+- [ ] Link to your current [tokenlist](https://tokenlists.org/) by someone with a reputation. Unless there is a reputable site(s), e.g. Coingecko, supporting tokens from your chain, we will mark all tokens as [Degen mode](https://docs.dex.guru/data/off-chain-data-usage).  
+- [ ] Blockexplorer that could open account and transaction pages. Please include a link in PR description or attach it to a new issue in this repo.   
+- [ ] At least one stablecoin with **stable** price. Preferably native stablecoins(e.g. USDT) or their bridged versions. 
+- [ ] High-performance RPC endpoint. This endpoint should be able to handle at least x3 of your chain average TX/block count per avg. block time. We strive to index data in real-time or as close to real-time as possible. Please raise the issue in this repo or reach out to our team at [Discord](https://discord.com/invite/dPW8fzwzz9) with access details.  
+
 
 ETH Chain config example:
 ```json
@@ -56,13 +66,15 @@ ETH Chain config example:
 
 # Dapps (currently AMMs) Integration
 
-Dapps are divided by chain type (currenlty it's evm only), and dapp type. For example if you have an AMM you want to add
-to DexGuru and it's fork, by means of parsed SWAP/BURNS/MINTS/SYNC events, of Uniswap V2, you would add it to the uniswap_v2 folder. 
-After submitting the PR please contact us at [Discord](https://discord.com/channels/779159507967672360/928096490134573087), so we would be able 
-to add metadata/logos to the dapp, otherwise it would be indexed and shown on dex.guru with default Unknown branding after
-merging to main and deploying to dex.guru staging and production envs.
+Dapps are divided by chain type (currently, it's evm only), and dapp type. For example, if you have an AMM you want to add to DexGuru and it's fork(using the same or similar smart contracts), by means of parsed SWAP/BURNS/MINTS/SYNC events, of Uniswap V2, you would add it to the uniswap_v2 folder. 
 
-
+### New AMM Submissions:
+We'll need the following to integrate your AMM: 
+* [ ] Do you have a daily trading volume over $20k? 
+* [ ] Does "type" at AMM config match your code base? 
+* [ ] Your AMM logo. Please add a link to your logo or attach it to a new issue in this repo.  
+ 
+ 
 AMM config example:
 ```json
 [
