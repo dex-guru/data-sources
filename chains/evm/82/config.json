@@ -1,0 +1,20 @@
+[
+  {
+    "id": 82,
+    "name": "meter",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x160361ce13ec33c993b5cca8f62b6864943eb083",
+    "native_token": {
+      "address": "0x160361ce13ec33c993b5cca8f62b6864943eb083",
+      "name": "Wrapped Meter",
+      "symbol": "WMTR",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x24aa189dfaa76c671c279262f94434770f557c35",
+      "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+      "0x5fa41671c48e3c951afc30816947126ccc8c162e"
+    ]
+  }
+]
