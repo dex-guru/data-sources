@@ -41,8 +41,9 @@ class LocalAPIClient(APIClient):
 
     def scan_paths(self):
         path_parent = os.path.dirname(os.getcwd())
-        chains_path = f'{path_parent}/dexguru_data_sources/api_data/chains/evm'
-        dapps_path = f'{path_parent}/dexguru_data_sources/api_data/dapps/evm'
+        main_parent = os.path.dirname(path_parent)
+        chains_path = f'{main_parent}/chains/evm'
+        dapps_path = f'{main_parent}/dapps/evm'
         chains_scan = os.scandir(chains_path)
         dapps_scan = os.scandir(dapps_path)
         chains_result = []
