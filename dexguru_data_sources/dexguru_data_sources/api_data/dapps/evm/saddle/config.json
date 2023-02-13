@@ -1,0 +1,29 @@
+[
+  {
+    "chain_id": 1,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "contracts": {
+      "PoolRegistry": "0xfb4de84c4375d7c8577327153de88f58f69eec81"
+    }
+  },
+  {
+    "chain_id": 10,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "contracts": {
+      "PoolRegistry": "0x4e1484607760118ebe2ab07c0c71f1b4d9671e01"
+    }
+  },
+  {
+    "chain_id": 42161,
+    "name": "saddle",
+    "type": "saddle",
+    "enabled": true,
+    "contracts": {
+      "PoolRegistry": "0x38262c17a06a6b3588d3e5b70dfa768c06bf4ef1"
+    }
+  }
+]
