@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Tests for `dexguru_config_package` package."""
+"""Test for `dexguru_config_package` package."""
 
 import pytest
 
