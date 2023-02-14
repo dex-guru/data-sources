@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dexguru_data_sources"
+version = "0.1.0"
+description = ""
+authors = ["Vitaly Vakhteev <vitaly.v@techusage.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
