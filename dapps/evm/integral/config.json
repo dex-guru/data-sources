@@ -1,0 +1,22 @@
+[
+  {
+    "chain_id": 1,
+    "name": "integral",
+    "type": "integral",
+    "enabled": true,
+    "contracts": {
+      "Delay": "0x782534550e2553A42CDFf8D5a94066d8c7B6729B",
+      "Factory": "0xC480b33eE5229DE3FbDFAD1D2DCD3F3BAD0C56c6"
+    }
+  },
+  {
+    "chain_id": 42161,
+    "name": "integral",
+    "type": "integral",
+    "enabled": true,
+    "contracts": {
+      "Delay": "0x7B96662D4dbBf6894a888Ba53Afbe2F98359C973",
+      "Factory": "0x717EF162cf831db83c51134734A15D1EBe9E516a"
+    }
+  }
+]
