@@ -1,7 +1,7 @@
 [
   {
     "chain_id": 1,
-    "name": "integral",
+    "name": "size",
     "type": "integral",
     "enabled": true,
     "contracts": {
@@ -10,8 +10,18 @@
     }
   },
   {
+    "chain_id": 1,
+    "name": "five",
+    "type": "integral",
+    "enabled": true,
+    "contracts": {
+      "Delay": "0x3EeDC524c234a5b72c09A4B052e7da695e9e7713",
+      "Factory": "0x673662e97B05e001816c380bA5a628D2E29f55D1"
+    }
+  },
+  {
     "chain_id": 42161,
-    "name": "integral",
+    "name": "size",
     "type": "integral",
     "enabled": true,
     "contracts": {
