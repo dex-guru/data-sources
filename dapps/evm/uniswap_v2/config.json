@@ -19,8 +19,8 @@
       "UniswapV2Factory": "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
     }
   },
-    {
-      "chain_id": 56,
+  {
+    "chain_id": 56,
     "name": "pancakeswap",
     "type": "uniswap_v2",
     "enabled": true,
@@ -1036,6 +1036,16 @@
     "contracts": {
       "UniswapV2Router": "0xB9A55F455e46e8D717eEA5E47D2c449416A0437F",
       "UniswapV2Factory": "0x67a1412d2D6CbF211bb71F8e851b4393b491B10f"
+    }
+  },
+  {
+    "chain_id": 56,
+    "name": "melegaswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0xc25033218D181b27D4a2944Fbb04FC055da4EAB3",
+      "UniswapV2Factory": "0xb7E5848e1d0CB457f2026670fCb9BbdB7e9E039C"
     }
   }
 ]
