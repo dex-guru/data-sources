@@ -1,0 +1,16 @@
+[
+    {
+      "id": 15551,
+      "name": "loop",
+      "type": "evm",
+      "enabled": true,
+      "native_token_address": "0x3936D20a39eD4b0d44EaBfC91757B182f14A38d5",
+      "native_token": {
+        "address": "0x3936D20a39eD4b0d44EaBfC91757B182f14A38d5",
+        "name": "Wrapped LOOP",
+        "symbol": "WLOOP",
+        "decimals": 18
+      },
+      "stablecoin_addresses": []
+    }
+]
