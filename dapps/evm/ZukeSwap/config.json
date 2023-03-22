@@ -1,0 +1,12 @@
+[
+    {
+      "chain_id": 15551,
+      "name": "zukeswap",
+      "type": "zukeswap",
+      "enabled": true,
+      "contracts": {
+        "UniswapV2Router": "0xeCaf4708d2027A071d24A32F4409E57f7cBACFA1",
+        "UniswapV2Factory": "0xc738bE6fE1A54d7B0F6e4C3262a46a002aC2508e"
+      }
+    },
+]
