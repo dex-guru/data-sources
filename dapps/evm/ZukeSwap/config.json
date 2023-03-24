@@ -2,7 +2,7 @@
     {
       "chain_id": 15551,
       "name": "zukeswap",
-      "type": "zukeswap",
+      "type": "uniswap_v2",
       "enabled": true,
       "contracts": {
         "UniswapV2Router": "0xeCaf4708d2027A071d24A32F4409E57f7cBACFA1",
