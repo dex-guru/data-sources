@@ -1,0 +1,20 @@
+[
+  {
+    "id": 321,
+    "name": "kcs",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+    "native_token": {
+      "address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+      "name": "Wrapped KCS",
+      "symbol": "WKCS",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+      "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+      "0x05713def8f4379c17dcf50a0cfc538a675b4f79c"
+    ]
+  }
+]
