@@ -510,6 +510,16 @@
     }
   },
   {
+    "chain_id": 321,
+    "name": "mojitoswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x8c8067ed3bc19acce28c1953bfc18dc85a2127f7",
+      "UniswapV2Factory": "0x79855a03426e15ad120df77efa623af87bd54ef3"
+    }
+  },
+  {
     "chain_id": 137,
     "name": "sushiswap",
     "type": "uniswap_v2",
