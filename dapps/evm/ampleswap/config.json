@@ -1,0 +1,15 @@
+[
+  {
+    "chain_id": 56,
+    "name": "ampleswap",
+    "type": "ampleswap",
+    "enabled": true,
+    "contracts": {
+      "AmpleToken": "0x19857937848c02afbde8b526610f0f2f89e9960d",
+      "Router": "0x7f1f846bc6b252bdee65f61491a879f0ad7ee926",
+      "Factory": "0x381fefadab5466bff0e8e96842e8e76a143e8f73",
+      "MasterChef": "0xf5987603323aa99dde0777a55e83c82d59cca272"
+    }
+	
+	  }
+]
