@@ -26,5 +26,14 @@
     "contracts": {
       "UniswapV2Factory": "0x4233ad9b8b7c1ccf0818907908a7f0796a3df85f"
     }
+  },
+  {
+    "chain_id": 82,
+    "name": "voltswap",
+    "type": "solidly",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Factory": "0xb33dE8C0843F90655ad6249F20B473a627443d21"
+    }
   }
 ]
