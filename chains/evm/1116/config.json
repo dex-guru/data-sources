@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1116,
+    "name": "core",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+    "native_token": {
+      "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0xF76ff9A0F07AB1100c70D03c15A34bA139f8291A",
+      "0xf7BB4E0eCdBD16Fa8dD39AFb679283b5d7BB32a6",
+      "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
+      "0xD2683b22287E63D22928CBe4514003a92507f474",
+      "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+      "0x81bCEa03678D1CEF4830942227720D542Aa15817",
+      "0x1f82d787a1186c67360E62869C46eADbc192846a",
+      "0x8687cD1d02A28098571067ddB18F33fEF667C929"
+    ]
+  }
+]
