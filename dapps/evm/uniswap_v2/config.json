@@ -1057,5 +1057,25 @@
       "UniswapV2Router": "0xc25033218D181b27D4a2944Fbb04FC055da4EAB3",
       "UniswapV2Factory": "0xb7E5848e1d0CB457f2026670fCb9BbdB7e9E039C"
     }
+  },
+{
+    "chain_id": 1116,
+    "name": "icecreamswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0xBb5e1777A331ED93E07cF043363e48d320eb96c4",
+      "UniswapV2Factory": "0x9E6d21E759A7A288b80eef94E4737D313D31c13f"
+    }
+  },
+{
+    "chain_id": 1116,
+    "name": "archerswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x74f56a7560ef0c72cf6d677e3f5f51c2d579ff15",
+      "UniswapV2Factory": "0xe0b8838e8d73ff1ca193e8cc2bc0ebf7cf86f620"
+    }
   }
 ]
