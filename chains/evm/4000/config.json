@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4000,
+    "name": "ozone",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
+    "native_token": {
+    "address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
+    "name": "Wrapped OZO",
+    "symbol": "WOZO",
+    "decimals": 18
+    },
+    "stablecoin_addresses": [
+    "0xd4a711333C41cC01B005dBE5389BcFb99D4f5d64",
+    "0x30ebD802ac0056aF633a41B653f31C4e650fd789"
+    ]
+  }
+]
+  
