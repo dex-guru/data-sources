@@ -1057,5 +1057,15 @@
       "UniswapV2Router": "0xc25033218D181b27D4a2944Fbb04FC055da4EAB3",
       "UniswapV2Factory": "0xb7E5848e1d0CB457f2026670fCb9BbdB7e9E039C"
     }
+  },
+  {
+    "chain_id": 148,
+    "name": "shimmersea",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x3EdAFd0258F75E0F49d570B1b28a1F7A042bcEC3",
+      "UniswapV2Factory": "0x4fb5D3A06f5dE2E88Ce490E2E11D22B840D5ac47"
+    }
   }
 ]
