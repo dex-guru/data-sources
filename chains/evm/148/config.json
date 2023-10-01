@@ -1,0 +1,18 @@
+[
+  {
+    "id": 148,
+    "name": "shimmerevm",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x1074010000000000000000000000000000000000",
+    "native_token": {
+      "address": "0x1074010000000000000000000000000000000000",
+      "name": "Shimmer",
+      "symbol": "SMR",
+      "decimals": 6
+    },
+    "stablecoin_addresses": [
+      "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44",
+    ]
+  }
+]
