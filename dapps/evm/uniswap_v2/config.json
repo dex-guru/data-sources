@@ -1058,4 +1058,14 @@
       "UniswapV2Factory": "0xb7E5848e1d0CB457f2026670fCb9BbdB7e9E039C"
     }
   }
+  {
+    "chain_id": 4337,
+    "name": "beamswap",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x965B104e250648d01d4B3b72BaC751Cde809D29E",
+      "UniswapV2Factory": "0x662b526FB70EBB508962f3f61c9F735f687C8fA5"
+    }
+  }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 4337,
+    "name": "beam",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0xD51BFa777609213A653a2CD067c9A0132a2D316A",
+    "native_token": {
+      "address": "0xD51BFa777609213A653a2CD067c9A0132a2D316A",
+      "name": "Merit Circle",
+      "symbol": "MC",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304",
+      "0x999f90f25a2922ae1b21A06066F7EDEbedad42a9"
+    ]
+  }
+]
