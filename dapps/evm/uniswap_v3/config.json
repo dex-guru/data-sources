@@ -18,8 +18,8 @@
       "NonfungibleTokenPositionDescriptor": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
     }
   },
-    {
-      "chain_id": 42161,
+  {
+    "chain_id": 42161,
     "name": "uniswap_v3",
     "type": "uniswap_v3",
     "enabled": true,
@@ -95,6 +95,36 @@
     "enabled": true,
     "contracts": {
       "UniswapV3Factory": "0xAfE208a311B21f13EF87E33A90049fC17A7acDEc"
+    }
+  },
+  {
+    "chain_id": 59144,
+    "name": "metavault_v3_amm",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "contracts": {
+      "Quoter": "0x63A8A929fA175667832329dee1Bc4c4922AfFe6d",
+      "TickLens": "0x606E4922b259fe28c10e6731e8317705AA1e253B",
+      "SwapRouter": "0xC6433c65ED684e987287d4DE87869a0A7cc4C2eB",
+      "NFTDescriptor": "0x85778C9284B24D5f4D58568a0707fb55ECc50023",
+      "UniswapV3Factory": "0x9367c561915f9D062aFE3b57B18e30dEC62b8488",
+      "NonfungiblePositionManager": "0x5979C5315625276ff99a56f95eE5cC44293e7b36",
+      "NonfungibleTokenPositionDescriptor": "0x7bD86d286EC3613535B53F7B7aC9cFBfd3BCa549"
+    }
+  },
+  {
+    "chain_id": 534352,
+    "name": "metavault_v3_amm",
+    "type": "uniswap_v3",
+    "enabled": true,
+    "contracts": {
+      "Quoter": "0x63A8A929fA175667832329dee1Bc4c4922AfFe6d",
+      "TickLens": "0x606E4922b259fe28c10e6731e8317705AA1e253B",
+      "SwapRouter": "0xC6433c65ED684e987287d4DE87869a0A7cc4C2eB",
+      "NFTDescriptor": "0x85778C9284B24D5f4D58568a0707fb55ECc50023",
+      "UniswapV3Factory": "0x9367c561915f9D062aFE3b57B18e30dEC62b8488",
+      "NonfungiblePositionManager": "0x5979C5315625276ff99a56f95eE5cC44293e7b36",
+      "NonfungibleTokenPositionDescriptor": "0x7bD86d286EC3613535B53F7B7aC9cFBfd3BCa549"
     }
   }
 ]

@@ -1057,5 +1057,25 @@
       "UniswapV2Router": "0xc25033218D181b27D4a2944Fbb04FC055da4EAB3",
       "UniswapV2Factory": "0xb7E5848e1d0CB457f2026670fCb9BbdB7e9E039C"
     }
+  },
+  {
+    "chain_id": 59144,
+    "name": "metavault_v2_amm",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x646AAfF875Bd16d2c3777F3F6e1599eEbf1e2137",
+      "UniswapV2Factory": "0xCc570Ec20eCB62cd9589FA33724514BDBc98DC7E"
+    }
+  },
+  {
+    "chain_id": 534352,
+    "name": "metavault_v2_amm",
+    "type": "uniswap_v2",
+    "enabled": true,
+    "contracts": {
+      "UniswapV2Router": "0x646AAfF875Bd16d2c3777F3F6e1599eEbf1e2137",
+      "UniswapV2Factory": "0xCc570Ec20eCB62cd9589FA33724514BDBc98DC7E"
+    }
   }
 ]
