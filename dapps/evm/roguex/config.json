@@ -1,0 +1,12 @@
+[
+  {
+    "chain_id": 81457,
+    "name": "roguex",
+    "type": "roguex",
+    "enabled": true,
+    "contracts": {
+      "RoguexFactory": "0x5B0b4b97edb7377888E2c37268c46E28f5BD81d0",
+      "SwapRouter": "0x8e7a5187117F3dfbae028ac26db00A75aE41F095"
+    }
+  }
+]
