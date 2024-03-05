@@ -1,0 +1,18 @@
+[
+  {
+    "id": 81457,
+    "name": "blast",
+    "type": "evm",
+    "enabled": true,
+    "native_token_address": "0x4300000000000000000000000000000000000004",
+    "native_token": {
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "stablecoin_addresses": [
+      "0x4300000000000000000000000000000000000003"
+    ]
+  }
+]
